@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "mxq <maxiqian0807@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "cssnano": "^5.1.14",
+    "postcss": "^8.2.15"
+  }
 }
